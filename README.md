@@ -2,7 +2,7 @@
 <h3 align="center">Simple guy who likes to do things differently</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atnid21&label=Profile%20views&color=0e75b6&style=flat" alt="atnid21" /> </p>
-<img align="right" alt="Coding" width="400" src="https://pin.it/2T7qb9i"/>
+<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="17656132" data-share-method="host" data-aspect-ratio="0.55625" data-width="100%"><a href="https://tenor.com/view/foodpanda-food-panda-foodpanda-rider-coding-gif-17656132">Foodpanda Foodpanda Rider Sticker</a>from <a href="https://tenor.com/search/foodpanda-stickers">Foodpanda Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **DSA and MERN Stack**
