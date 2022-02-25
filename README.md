@@ -2,7 +2,7 @@
 <h3 align="center">Simple guy who likes to do things differently</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atnid21&label=Profile%20views&color=0e75b6&style=flat" alt="atnid21" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=keyword" />
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-man-studying-programming-languages-flat-vector-illustration-guy-sitting-front-computer-with-binary-code-screen-reading-books-programming-education-learning-concept-design_179970-6343.jpg" />
 
 - 🌱 I’m currently learning **DSA and MERN Stack**
 
