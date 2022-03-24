@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and MERN Stack**
 
-- 💬 Ask me about **React , C++ and NodeJS**
+- 💬 Ask me about **ReactJS , C++ and NodeJS**
 
 - 📫 How to reach me **atharvanidhonkar10@gmail.com**
 
