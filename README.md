@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px" width="30px" style="background:black"/>, I'm Atharva Nidhonkar</h1>
 <h3 align="center">Explorer || Inquisitive || Developer </h3>
+
 <br>
 <img src="https://ouch-cdn2.icons8.com/M5k9B5-7mm7gove6oK0qWAfIMVD4IA-qhmugHrD5HJI/rs:fit:256:192/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjc5/LzYyMWQ0YTdkLWRl/NjgtNGYzOS05ZDlm/LWI4ZDQ1Yjk0ZjAy/ZC5zdmc.png" alt="this slowpoke moves"  width="250" rel="noreferrer"align="right"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atnid21&label=Profile%20views&color=0e75b6&style=flat" alt="atnid21" /> </p>
 <hr>
 <ul><li>🌱 I’m currently learning <strong> MERN Stack || DSA </strong></li></ul>
 
