@@ -1,8 +1,8 @@
 <div align="center">
-<img width="700px" height = "300px" src="https://i.pinimg.com/564x/29/e3/dd/29e3dd795c6693aa6185b6bf0faa4e33.jpg" alt="cover" />
+<img width="700px" height = "300px" src="https://dylanyaworski.files.wordpress.com/2017/11/hi.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atnid21&label=Profile%20views&color=0e75b6&style=flat" alt="atnid21" /> </p>
@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" />
 
 
 - 🔭 I’m currently working on MERN Projects 
