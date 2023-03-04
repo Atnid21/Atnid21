@@ -48,8 +48,26 @@
 
 ###
 
-<br clear="both">
+<br >
 
-<img src="https://raw.githubusercontent.com/Atnid21/Atnid21/blob/output/snake.svg" alt="Snake animation" />
+<h2 align="center">Meme of the Day 😂 !!</h2>
+
+<!-- ###
+
+<img align="left" height="187" src="https://res.cloudinary.com/practicaldev/image/fetch/s--buWpzO3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xosaqxln2vnadyyv7b46.png"  />
+ -->
+###
+<div align="center">
+  <img align="center" height="200" src="https://media.licdn.com/dms/image/C5622AQHJGVM2FC0alg/feedshare-shrink_800/0/1672214826751?e=1680739200&v=beta&t=zDzlLWKtHGFXQOmqDWKevxDIvpiSc3kVYjzJRTeityI"  />
+</div>
+
+
+
+###
+###
+<!-- 
+<img align="left" height="200" src="https://media.licdn.com/dms/image/C5622AQHJGVM2FC0alg/feedshare-shrink_800/0/1672214826751?e=1680739200&v=beta&t=zDzlLWKtHGFXQOmqDWKevxDIvpiSc3kVYjzJRTeityI"  /> -->
+
+###
 
 ###
