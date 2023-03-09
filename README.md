@@ -46,6 +46,10 @@
   <a href="https://linktr.ee/atnid_21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="48" height="36" alt="linktree logo"  />
   </a>
+  <a href="https://leetcode.com/Atnid_21/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atnid21" width="48" height="36"   />
+  </a>
+  
 </div>
 
 ###
