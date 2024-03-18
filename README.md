@@ -37,6 +37,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+
+ 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
